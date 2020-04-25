@@ -1,6 +1,7 @@
 package Challenge_30Day;
 
-import Leetcode.Chapters.LinkedList.ListNode;
+
+import NodeClasses.ListNode;
 
 public class Day8_MiddleNode {
     private ListNode middleNode(ListNode head) {
